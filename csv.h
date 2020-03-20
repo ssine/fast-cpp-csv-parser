@@ -1,3 +1,6 @@
+#pragma warning(disable:4996)
+#pragma warning(disable:4267)
+#pragma warning(disable:4244)
 // Copyright: (2012-2015) Ben Strasser <code@ben-strasser.net>
 // License: BSD-3
 //
